@@ -175,5 +175,5 @@ int main(){
     cout << "Search 6: " << (tree.search(6) ? "found" : "not found") << endl;
     cout << "Search 15: " << (tree.search(15) ? "found" : "not found") << endl;
 
-    return 0;
+    return 1;
 }
